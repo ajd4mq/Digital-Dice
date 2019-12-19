@@ -6,6 +6,7 @@
 // Jonathan W. Valvano 2/20/17, valvano@mail.utexas.edu
 // Modified by Sile Shu 10/4/17, ss5de@virginia.edu
 // Modified by Mustafa Hotaki 7/29/18, mkh3cf@virginia.edu
+// Modified by Joseph Chen, Arjun Deopujari, and Nick Moon - November 2019
 
 #include <stdint.h>
 #include <stdio.h>
