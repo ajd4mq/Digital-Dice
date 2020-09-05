@@ -8,6 +8,11 @@
 // Modified by Mustafa Hotaki 7/29/18, mkh3cf@virginia.edu
 // Modified by Joseph Chen, Arjun Deopujari, and Nick Moon - November 2019
 
+// Joseph Chen github page: https://github.com/walrusa/
+// Nicholas Moon github page: https://github.com/NicholasMoon
+
+/* **** Did not delete large blocks of commented code in order for viewers to look at original code and make sense of changes ****   */
+
 #include <stdint.h>
 #include <stdio.h>
 #include <stdlib.h>
